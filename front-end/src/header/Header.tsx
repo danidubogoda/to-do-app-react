@@ -7,6 +7,6 @@ export function Header(){
             <h1 className='text-primary'>To Do App</h1>
 
         </header>
-    )
+    );
 
 }
